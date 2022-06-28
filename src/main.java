@@ -5,7 +5,7 @@ public class main {
         System.out.println("Hello");
         System.out.println("My name");
 
-        User a = new User("Artem", "Khrychov");
-        User b = new User("Denis", "Khrychov");
+        User a = new User("Artem", "Khrychov", "a");
+        User b = new User("Denis", "Khrychov", "b");
     }
 }
