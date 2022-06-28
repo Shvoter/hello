@@ -5,6 +5,6 @@ public class main {
         System.out.println("Hello");
         System.out.println("My name");
 
-        model1 a = new model1("Artem", "Khrychov");
+        model1 a = new model1("Artem", "Khrychov", "artemkhrychov@gmail.com");
     }
 }
